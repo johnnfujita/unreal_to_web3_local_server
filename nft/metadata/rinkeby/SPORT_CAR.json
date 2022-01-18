@@ -1,0 +1,11 @@
+{
+    "name": "SPORT_CAR",
+    "description": "A beast on wheels",
+    "image": "https://ipfs.io/ipfs/QmeYxmXkaHFmSbuquMpaa3d88CuVvnEgJ1XksoqWpH6iLf?filename=SPORT_CAR.png",
+    "attributes": [
+        {
+            "attribute": "speed",
+            "value": 110
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "SUV",
+    "description": "Life bothers you, go over her with this monster like you don't care",
+    "image": "https://ipfs.io/ipfs/QmQQ8nP48gb2Z6ukMNw4tkmrGXoYdTCso3Db94J7buhLba?filename=SUV.png",
+    "attributes": [
+        {
+            "attribute": "speed",
+            "value": 89
+        }
+    ]
+}

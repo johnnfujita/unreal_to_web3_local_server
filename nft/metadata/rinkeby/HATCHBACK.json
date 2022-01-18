@@ -1,0 +1,11 @@
+{
+    "name": "HATCHBACK",
+    "description": "A mediocrity Statement",
+    "image": "https://ipfs.io/ipfs/QmU2rdiAR7wvhxzP1P7Q9LERFz38wSHuacJSYS2SLoS5a9?filename=HATCHBACK",
+    "attributes": [
+        {
+            "attribute": "speed",
+            "value": 123
+        }
+    ]
+}
